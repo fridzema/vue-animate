@@ -23,7 +23,7 @@ Include the stylesheet:
   npm install --save vue-animate
   ```
   ```js
-  require('vue-animate/dist/vue-animate.min.css')
+  require('css!vue-animate/dist/vue-animate.min.css')
   ```
 ####Less
   ```less
